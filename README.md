@@ -14,3 +14,7 @@ House Prices
 
 You are given an array that represents house prices.
 Calculate and output the percentage of houses that are within one standard deviation from the mean. 
+
+***
+
+![Certificado Sololearn](https://www.sololearn.com/certificates/course/en/21646072/1161/landscape/png)
